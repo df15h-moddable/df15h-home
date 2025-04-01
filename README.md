@@ -4,7 +4,6 @@
 
 - Bethesda [Creation Engine](https://github.com/df15h-moddable/creation-engine)
 - CD Projekt [Red](https://github.com/df15h-moddable/red)
-- [Larian](https://github.com/df15h-moddable/larian)
 
 ## by Title
   
