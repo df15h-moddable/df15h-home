@@ -2,8 +2,8 @@
 
 ## by Studio
 
-- Bethesda [Creation Engine](https://github.com/df15h-moddable/creation-engine)
-- CD Projekt [REDengine](https://github.com/df15h-moddable/red)
+- Bethesda [Creation Engine](https://github.com/df15h-moddable/creation-engine) : Elder Scrolls, Fallout, Starfield
+- CD Projekt [REDengine](https://github.com/df15h-moddable/red) : Cyberpunk 2077, Witcher 3
 
 ## by Title
   
