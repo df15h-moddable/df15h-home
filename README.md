@@ -11,4 +11,4 @@
 - [Mount & Blade](https://github.com/df15h-moddable/mount-and-blade) : proprietary engine
 - [No Mans Sky](https://github.com/df15h-moddable/no-mans-sky) : proprietary engine
 - [Soulmask](https://github.com/df15h-moddable/soulmask) : Unreal 4
-- [Total War](https://github.com/df15h-moddable/total-war)
+- [Total War](https://github.com/df15h-moddable/total-war) : proprietary engine
